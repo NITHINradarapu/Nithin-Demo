@@ -1,2 +1,2 @@
 # Nithin-Demo
-This a practice repo of git and github
+This a practice repo of git & github
